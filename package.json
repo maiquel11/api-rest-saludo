@@ -9,6 +9,7 @@
   "author": "también",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.4"
+    "express": "^4.18.4" , 
+    "@vendia/serverless-express": "^4.10.2"
   }
 }
