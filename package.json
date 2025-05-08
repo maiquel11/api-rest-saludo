@@ -1,15 +1,14 @@
 {
   "name": "api-rest-saludo",
   "version": "1.0.0",
+  "description": "Una API REST básica con Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "también",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.18.4"
   }
 }
