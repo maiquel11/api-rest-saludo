@@ -2,9 +2,9 @@
   "name": "api-rest-saludo",
   "version": "1.0.0",
   "description": "Una API REST básica con Express",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/index.js"
   },
   "author": "también",
   "license": "ISC",
